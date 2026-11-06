@@ -16,8 +16,16 @@ html {
   box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
-.form-label {
+.search-form-label {
   margin: 0 0.25rem 0 0.5rem;
+}
+
+.control-label {
+  margin: 1rem 0 0 0;
+}
+
+.btn {
+  margin: 1rem 1rem 1rem 0;
 }
 
 html {
